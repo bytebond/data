@@ -1,0 +1,12 @@
+type,date_time,ticker,amount,currency_code,quantity,fee,security_name,security_id,description
+fund_transfer,2023-01-03 00:00:00,,100000,USD,,,,,CASH RECEIPTS
+trade,2023-01-03 00:00:00,MSFT,-2396.0,USD,10,-1,Microsoft,US5949181045,
+trade,2023-01-09 00:00:00,CSPX.L,-3942.8,USD,10,-1,iShares S&P 500,,
+trade,2023-01-25 00:00:00,META,-1591.5,USD,10,-1,"Meta",,
+trade,2023-01-30 00:00:00,GOOGL,-891.2,USD,10,-1,Alphabet,,
+trade,2023-02-22 00:00:00,TSLA,-1081,USD,10,-1,"Tesla",,
+trade,2023-02-24 00:00:00,AAPL,-1467.0,USD,10,-1,"Apple",,
+dividend,2023-03-14 00:00:00,,0.12,USD,,-0.04,,US45841N1072, Dividend and tax
+trade,2023-03-24 00:00:00,AAPL,-1600.0,USD,10,-1,"Apple",,
+trade,2023-03-30 00:00:00,TSLA,-1952.7,USD,10,-1,"Tesla",,
+trade,2023-05-19 00:00:00,META,-2456.6,USD,10,-1,"Meta",,
